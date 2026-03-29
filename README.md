@@ -10,11 +10,11 @@ Specifically, it investigates the presence of the favorite–longshot bias, a we
 ## Author
 
 Ruobing Wang
-	•	Data preprocessing and cleaning
-	•	Exploratory data analysis (EDA)
-	•	Statistical analysis and visualization
-	•	Interpretation of results and insights
-
+	•	Organized project structure and workflow 
+	•	Contributed to interpretation of results and final conclusions 
+	•	Performed data analysis and visualization    
+	•	Developed research hypothesis and analytical framework  
+	•	Conducted ethical analysis of the study
 
 ## Key Findings
 	•	Betting odds are not perfectly aligned with actual outcomes
