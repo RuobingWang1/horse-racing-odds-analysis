@@ -6,13 +6,15 @@ This project analyzes horse racing betting data to evaluate whether betting odds
 
 Specifically, it investigates the presence of the favorite–longshot bias, a well-documented phenomenon in which favorites tend to yield higher returns than longshots, suggesting potential inefficiencies in betting markets.
 
-## Author: This project was completed as part of a team of five.
-	•	Ruobing Wang
+## Author
+### Ruobing Wang
 	•	Organized project structure and workflow 
 	•	Contributed to interpretation of results and final conclusions 
 	•	Performed data analysis and visualization    
 	•	Developed research hypothesis and analytical framework  
 	•	Conducted ethical analysis of the study
+
+* This project was completed as part of a team of five.
 
 ## Key Findings
 	•	Betting odds are not perfectly aligned with actual outcomes
