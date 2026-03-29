@@ -1,17 +1,53 @@
-This is your group repo for your final project for COGS108.
+# Horse Racing Odds Analysis
 
-This repository is private, and is only visible to the course instructors and your group mates; it is not visible to anyone else.
+## Overview
 
-Template notebooks for each component are provided. The numbers on the notebook filenames provides the order things are due.  See the syllabus for the due dates in your quarter.
+This project analyzes horse racing betting data to evaluate whether betting odds accurately reflect true winning probabilities.
 
-You will be graded based solely on the numbered Jupyter notebooks in this repository.  You will recieve your grade and feedback on how to improve via GitHub Issues on this repository. 
+Specifically, it investigates the presence of the favorite–longshot bias, a well-known phenomenon where favorites tend to be undervalued and longshots overvalued in betting markets.
 
-We have created a suggested organization for your repo, including directory structures for storing `./data`, `./results`, and for creating `./modules` that your notebooks can import. 
 
-Its worth noting that `./data` is for storing local copies of the data, but by default this repo is configured to **not** allow you to store common datafiles in GitHub.  This is because GitHub has low limits on maximum file and repo size.  So instead you would download your data direct from its original provider or from your personal cloud storage. There are scripts inside some of the notebooks to download data from any URL to `./data`.  If you wish to remove this limitation and store small data files directly in your GitHub you should edit your `.gitignore` file.
+## Author
 
-But this is *your* repo. You are free to manage the repo as you see fit, edit this README, add data files anywhere you want, etc. So long as there are the four numbered Jupyter notebooks in place on the due dates with the required information, the rest is up to you. 
+Ruobing Wang
+	•	Data preprocessing and cleaning
+	•	Exploratory data analysis (EDA)
+	•	Statistical analysis and visualization
+	•	Interpretation of results and insights
 
-At the final project date there is an option to make your final project visible to others.  If you choose this option your repo will become publicly visible. 
 
-Also, you are encouraged to share this project after the course and to add it to your portfolio. If your repo is public you may fork it. If it is private you may follow [these instructions](https://docs.google.com/document/d/1_PP-vlsyWjNegGGsmeDB5B-ltjYW1Db14q9dx3HM9e4/edit?usp=sharing)
+## Key Findings
+	•	Betting odds are not perfectly aligned with actual outcomes
+	•	Evidence of favorite–longshot bias was observed
+	•	Certain betting strategies may lead to systematic losses
+
+
+## Data
+
+The dataset used in this project is too large to be hosted directly on GitHub.
+
+You can download it here:
+👉 https://docs.google.com/spreadsheets/d/1nGyuTvNUiw8fk0SEu64N7uJY1LiqELlp/edit?usp=sharing&ouid=116590361119788269185&rtpof=true&sd=true
+
+After downloading, place the data in the data/ directory before running the analysis.
+
+
+## How to Run
+	1.	Download the dataset from the link above
+	2.	Place it in the project folder (data/)
+	3.	Open and run FinalProject.ipynb
+
+
+## Project Structure
+	•	FinalProject.ipynb
+	•	data(external download required)
+
+## Limitations
+	•	The dataset only includes races from Saga Racecourse, limiting generalizability
+	•	The analysis is cross-sectional and does not capture changes over time
+	•	Important variables (e.g., race conditions, horse condition) are not included
+
+## Future Work
+	•	Extend analysis to multiple racecourses
+	•	Analyze how betting behavior changes over time
+	•	Incorporate additional variables to improve predictive power
