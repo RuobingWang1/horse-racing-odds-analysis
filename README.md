@@ -7,9 +7,7 @@ This project analyzes horse racing betting data to evaluate whether betting odds
 Specifically, it investigates the presence of the favorite–longshot bias, a well-known phenomenon where favorites tend to be undervalued and longshots overvalued in betting markets.
 
 
-## Author
-
-Ruobing Wang
+## Author (Ruobing Wang)
 	•	Organized project structure and workflow 
 	•	Contributed to interpretation of results and final conclusions 
 	•	Performed data analysis and visualization    
